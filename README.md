@@ -1,4 +1,4 @@
-# orbslam2_detailed
+# ORB_SLAM2_detailed
 
 # ORB-SLAM2 超详细注释
 
